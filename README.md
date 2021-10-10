@@ -34,7 +34,7 @@ A Python script to scan Open Port on a particular Host
   ```
 * Navigate inside the ```MrRobot3301/Port_Scanner``` directory.
   ```bash
-  cd =Port_Scanner
+  cd Port_Scanner
   ```
 * Run
   ```bash
