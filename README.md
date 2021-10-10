@@ -11,15 +11,15 @@ A Python script to scan Open Port on a particular Host
 * Open Windows Command Prompt
 * Clone the repository
   ```bash
-  git clone https://github.com/GDSC-RCCIIT/General-Purpose-Scripts.git
+  git clone https://github.com/MrRobot3301/Port_Scanner
   ```
-* Navigate inside the ```scripts\Threaded-Port-Scanner``` directory.
+* Navigate inside the ```MrRobot3301/Port_Scanner``` directory.
   ```bash
-  cd General-Purpose-Scripts\scripts\Threaded-Port-Scanner
+  cd Port_Scanner
   ```
 * Run using Python
   ```bash
-  python "<your path>Threaded_Port_Scanner.py"
+  python "<your path>TPS.py"
   ```
 
 
@@ -30,13 +30,13 @@ A Python script to scan Open Port on a particular Host
 * Run this Command if 'git' is not installed > apt-get-install git
 * Clone the repository
   ```bash
-  git clone https://github.com/GDSC-RCCIIT/General-Purpose-Scripts.git
+  git clone https://github.com/MrRobot3301/Port_Scanner
   ```
-* Navigate inside the ```scripts\Threaded-Port-Scanner``` directory.
+* Navigate inside the ```MrRobot3301/Port_Scanner``` directory.
   ```bash
-  cd General-Purpose-Scripts\scripts\Threaded-Port-Scanner
+  cd =Port_Scanner
   ```
 * Run
   ```bash
-  python3 Threaded_Port_Scanner.py"
+  python3 TPS.py"
   ```
